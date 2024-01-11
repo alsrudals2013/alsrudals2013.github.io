@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "KH게시판",
+  "name": "리액트로만든 KH게시판",
   "icons": [
     {
       "src": "favicon.ico",
